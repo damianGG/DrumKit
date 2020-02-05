@@ -1,2 +1,2 @@
 # DrumKit
-Drum game
+Drum game basend on basic understand html and javescrip
